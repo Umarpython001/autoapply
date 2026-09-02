@@ -1,4 +1,4 @@
-from logic import Logic
+from backend.logic import Logic
 
 
 instance = Logic()
